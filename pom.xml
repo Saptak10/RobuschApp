@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.saptakcode</groupId>
 	<artifactId>robusch</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>robusch</name>
 	<description>Robusch Application</description>
 	<properties>
