@@ -3,16 +3,12 @@
 // import wallet_hand from "../../assets/images/footer/wallet_hand.png";
 // import energy_green from "../../assets/images/footer/energy_green.png";
 
-import { useLocation } from "react-router-dom";
+// import { useLocation } from "react-router-dom";
 
 const Footer = () => {
-  const location = useLocation();
+  // const location = useLocation();
 
-  return (
-    <div>
-      Footer
-    </div>
-  );
+  return <div>Footer</div>;
 };
 
 export default Footer;
